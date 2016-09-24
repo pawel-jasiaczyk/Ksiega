@@ -19,3 +19,13 @@ INSERT INTO debtors_obligees
     ...
   )
 ;
+
+INSERT INTO tags
+  (
+    tag_name
+  )
+  VALUES
+  (
+    ...
+  )
+;
